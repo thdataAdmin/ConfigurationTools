@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductionPlanning.LicenceManager", "ProductionPlanning.LicenceManager\ProductionPlanning.LicenceManager.csproj", "{EB327351-0096-4D2B-A03C-8AA010375EEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB327351-0096-4D2B-A03C-8AA010375EEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB327351-0096-4D2B-A03C-8AA010375EEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB327351-0096-4D2B-A03C-8AA010375EEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB327351-0096-4D2B-A03C-8AA010375EEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C170D076-8A3D-447E-90CC-BCCED19D8C47}
+	EndGlobalSection
+EndGlobal
